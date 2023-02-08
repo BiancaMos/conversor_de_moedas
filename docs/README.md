@@ -27,6 +27,6 @@ PT-BR: Projeto feito em curso imersão dev_ curso de desenvolvimento para inicia
                         Feito com 🤍 by BM
 
 
- #### 🔎 **[Online project here](https://codepen.io/biancamos/pen/oNBxwxK)** Projeto desenvolvido em Agosto de 2022; na época a cotação do dólar estava à 5,52.
+ #### 🔎 **[Online project here](https://codepen.io/biancamos/pen/oNBxwxK)** Projeto desenvolvido em Agosto de 2022; na época a cotação do dólar estava entre 5,76 à 5,52.
  
 
